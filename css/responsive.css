@@ -1,0 +1,948 @@
+@media(max-width:1024px) {
+    .header-contact a {
+        margin-right: 15px;
+        font-size: 13px;
+    }
+
+    .sub-header {
+        padding: 11px 0;
+    }
+
+    header {
+        padding: 15px 0;
+    }
+
+    .banner .banner-data h1 {
+        font-size: 60px;
+    }
+
+    .c-sec-2 .c-data {
+        width: 75%;
+    }
+
+    .c-sec-2 {
+        padding: 100px 0 30px;
+    }
+
+    /*------ sec-2----- */
+
+    .sec-2 {
+        padding: 90px 0 43px;
+    }
+
+    .sec-2 .business-3 {
+        padding: 31px 32px 32px 41px;
+    }
+
+    .sec-2 .business-3 p {
+        margin-bottom: 16px;
+    }
+
+    .sec-2 .business-1 p {
+        padding-bottom: 0px;
+    }
+
+    .sec-2 .business-3 h2 {
+        font-size: 34px;
+        padding-bottom: 24px;
+        margin-bottom: 20px;
+    }
+
+    /*------ sec-3----- */
+    .sec-3 .client-data {
+        padding: 57px 0px 50px 60px;
+    }
+
+    .sec-3 .client {
+        padding: 100px 0 0;
+    }
+
+    /*------ sec-4 ------ */
+    .sec-4 {
+        padding: 90px 0 80px;
+    }
+
+    .sec-4 h2 {
+        font-size: 55px;
+        margin-bottom: 0px;
+    }
+
+    .sec-4 a {
+        margin-top: 20px;
+    }
+
+    /*------ sec-5 ------ */
+    .sec-5 {
+        padding: 120px 0;
+    }
+
+    .sec-5 .comp-case p {
+        margin-bottom: 30px;
+        margin-right: 120px;
+    }
+
+    .sec-5 .comp-case {
+        padding: 0;
+        margin-left: 80px;
+    }
+
+    .sec-5 .comp-img .comp-img-1 {
+        width: 60%;
+    }
+
+    .sec-5 .comp-img .comp-img-2 {
+        width: 40%;
+    }
+
+    .sec-5 .comp-img .comp-img-3 {
+        width: 0;
+        margin-left: 0;
+    }
+
+    /*------ sec-8 ------ */
+    .sec-8 {
+        padding: 80px 0;
+    }
+
+    .sec-8 .col-4 {
+        width: 45%;
+    }
+
+    .sec-8 .col-8 {
+        width: 55%;
+    }
+
+    .sec-8 .col-4 h3 {
+        margin: 0 0 15px 30px;
+    }
+
+    .sec-8 .col-4 p {
+        margin: 0 0 15px 30px;
+    }
+
+    .sec-8 .f-naph input {
+        width: 44%;
+        margin-top: 0;
+    }
+
+    .sec-8 .f-ser select {
+        width: 60%;
+        margin: 15px;
+    }
+
+    .sec-8 .button {
+        width: 28%;
+        margin: 15px 0 0 15px;
+    }
+
+    /*-------sec-6-------- */
+    .sec-6 {
+        padding-top: 130px;
+    }
+
+    .sec-6 .cliff-fraz h4 {
+        margin-bottom: 30px;
+        font-size: 23px;
+        margin-left: 170px;
+        margin-right: 170px;
+    }
+
+    .sec-6 .clifarrow-1,
+    .clifarrow-2 {
+        opacity: 0;
+    }
+
+    /*-------sec-7-------- */
+    .sec-7 {
+        padding: 70px 0 50px;
+    }
+
+    .sec-7 h2 {
+        font-size: 55px;
+        margin-bottom: 50px;
+    }
+
+    /*-------footer-------- */
+
+    footer .col-4 p {
+        padding-right: 110px;
+    }
+
+    .footer-1 {
+        padding: 0px 0 75px 30px;
+    }
+
+    footer {
+        padding: 95px 0 0;
+    }
+
+    /* --------page---------- */
+    .pages {
+        padding: 80px 0;
+    }
+
+    .pages-2 .p-social {
+        margin-left: 52px;
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width:992px) {
+    .toggle {
+        opacity: 100%;
+    }
+
+    .c-sec-2 .col-4 {
+        width: 50%;
+    }
+
+    nav {
+        position: fixed;
+        top: 17%;
+        left: -180px;
+        bottom: 0;
+        width: 180px;
+        transition: 1s;
+        background-color: #fff;
+        z-index: 99;
+        flex-direction: column;
+        text-align: center;
+        padding: 20px;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    /* nav ul a {
+        display: block;
+    } */
+
+    nav ul li {
+        padding: 20px 15px;
+    }
+
+    .banner .banner-data h1 {
+        font-size: 50px;
+    }
+
+    /*--------- sec-2---------- */
+    .sec-2 {
+        padding: 90px 0 75px;
+    }
+
+    .sec-2 .col-4 {
+        width: 50%;
+    }
+
+    .sec-2 .col-4:last-child {
+        width: 100%;
+    }
+
+    .sec-2 .business-1 img {
+        margin-bottom: 16px;
+    }
+
+    .sec-2 .business-1 h2 {
+        margin-bottom: 16px;
+    }
+
+    .sec-2 .business-1 p {
+        padding-bottom: 20px;
+    }
+
+    .sec-2 .business-3 {
+        padding: 31px 32px 48px 52px;
+    }
+
+    .sec-2 .business-3 h2 {
+        padding-bottom: 29px;
+        margin-bottom: 30px;
+    }
+
+    .sec-2 .business-3 p {
+        margin-bottom: 30px;
+    }
+
+    /*--------- sec-4---------- */
+    .sec-4 {
+        padding: 500px 0 80px;
+    }
+
+    .sec-4 .col-4 {
+        width: 50%;
+    }
+
+    .sec-4 .row {
+        justify-content: center;
+    }
+
+    .sec-4 h2 {
+        font-size: 55px;
+        margin-bottom: 5px;
+    }
+
+    .sec-4 .servic-icon {
+        padding: 86px 40px 0px;
+    }
+
+    .sec-4 a {
+        margin-top: 40px;
+    }
+
+    /*------ sec-5 ------ */
+    .sec-5 {
+        padding: 100px 0;
+    }
+
+    .sec-5 .col-6 {
+        width: 100%;
+    }
+
+    .sec-5 .comp-case {
+        margin-bottom: 50px;
+    }
+
+    .sec-5 .comp-img .comp-img-1 {
+        width: 47%;
+    }
+
+    .sec-5 .comp-img .comp-img-2 {
+        width: 47%;
+        margin-left: 15px;
+    }
+
+    .sec-5 .comp-img .comp-img-3 {
+        width: 0;
+        margin-left: 0;
+    }
+
+    /*--------- sec-7---------- */
+    .sec-7 .col-4 {
+        width: 50%;
+    }
+
+    .sec-7 .row {
+        justify-content: center;
+    }
+
+    .sec-7 .re-news {
+        padding: 0 15px 20px;
+    }
+
+    .sec-7 h2 {
+        font-size: 50px;
+        margin-bottom: 40px;
+    }
+
+    .sec-7 {
+        padding: 55px 0 18px;
+    }
+
+    /*--------- sec-8---------- */
+    .sec-8 {
+        padding: 60px 0;
+    }
+
+    .sec-8 .col-4 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .sec-8 .col-8 {
+        width: 100%;
+
+    }
+
+    .sec-8 .col-4 h3 {
+        margin: 0 0 20px 45px;
+    }
+
+    .sec-8 .col-4 p {
+        margin: 0 70px 20px 45px;
+
+    }
+
+    .sec-8 .call-form {
+        margin: 0 30px 0;
+    }
+
+    /*--------- sec-6---------- */
+
+    .sec-6 .cliff-fraz h4 {
+        margin-bottom: 20px;
+        margin-left: 100px;
+        margin-right: 100px;
+        font-size: 20px
+    }
+
+    .sec-6 {
+        padding-top: 120px
+    }
+
+    /*--------- footer---------- */
+
+    .footer-1 {
+        padding: 0px 0 45px 20px;
+    }
+
+    footer .col-4 p {
+        padding-right: 28px;
+    }
+
+    footer .col-2 {
+        padding-left: 35px;
+    }
+
+    footer .col-3:last-child {
+        padding: 0 0 35px 20px;
+    }
+
+    footer .col-4 {
+        width: 33.33%;
+    }
+
+    footer .col-2 {
+        width: 33.33%;
+    }
+
+    footer .col-3 {
+        width: 33.33%;
+    }
+
+    /* --------page---------- */
+    .pages-2 .col-8 {
+        width: 100%;
+    }
+
+    .pages-2 .col-4 {
+        width: 100%;
+    }
+
+    .pages-2 .p-social {
+        margin-left: 20px;
+        margin-bottom: 15px;
+    }
+
+    /* ----------------- */
+    .b-sec-1 .col-8 {
+        width: 100%;
+    }
+
+    .b-sec-1 .col-4 {
+        width: 100%;
+    }
+
+    .box-padding {
+        padding-left: 0px;
+        padding-right: 0;
+    }
+}
+
+
+
+@media(max-width:768px) {
+    .banner .col-6 {
+        width: 74%;
+    }
+
+    /*--------- sec-3---------- */
+    .sec-3 img {
+        width: 100%;
+    }
+
+    .sec-3 .client-data {
+        width: 100%;
+        bottom: -60%;
+        right: 18px;
+    }
+
+    .b-sec-1 .b-box1 .b-input input {
+        width: 85%;
+    }
+}
+
+@media(max-width:576px) {
+    .header-contact span {
+        visibility: hidden;
+        font-size: 0;
+    }
+
+    .header-contact a {
+        margin-right: 3px;
+        font-size: 14px;
+    }
+
+    /*-------CASE------- */
+    .c-sec-2 .col-4 {
+        width: 100%;
+    }
+
+    /*---------- banner-------- */
+    .banner .col-6 {
+        width: 100%;
+    }
+
+    .banner .banner-data h1 {
+        font-size: 35px;
+        margin-bottom: 25px;
+    }
+
+    .banner .banner-data p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .banner .banner-data {
+        padding: 100px 0;
+    }
+
+    footer .col-4 {
+        width: 50%;
+    }
+
+    footer .col-2 {
+        width: 50%;
+    }
+
+    footer .col-3 {
+        width: 50%;
+        padding: 0 0 40px 20px;
+    }
+
+    footer .col-3:last-child {
+        padding: 0 0 0 30px;
+    }
+
+    footer .f-end {
+        font-size: 15px;
+        line-height: 1.8;
+        padding: 20px 10px 20px;
+    }
+
+    /*---------sec-2----------- */
+
+    .sec-2 .col-4 {
+        width: 100%;
+    }
+
+    .sec-2 .business-1 h2 {
+        margin-bottom: 10px;
+    }
+
+    .sec-2 {
+        padding: 55px 0 50px;
+    }
+
+    /*-------sec-3------- */
+    .sec-3 .client {
+        padding: 55px 0 0;
+    }
+
+    .c-data h2 {
+        font-size: 20px;
+    }
+
+    .sec-3 .client-data {
+        padding: 28px 0px 0px 15px;
+        bottom: -126%;
+        background-color: transparent;
+    }
+
+    .sec-3 .client-data p {
+        margin-bottom: 27px;
+    }
+
+    .sec-3 .client-data h2 {
+        font-size: 34px;
+        margin-bottom: 21px;
+    }
+
+    /*-------sec-4-------- */
+    .sec-4 .col-4 {
+        width: 100%;
+    }
+
+    .sec-4 {
+        padding: 460px 0 55px;
+    }
+
+    .sec-4 h2 {
+        font-size: 45px;
+        margin-bottom: 20px;
+    }
+
+    .sec-4 .servic-icon p {
+        margin-bottom: 0px;
+    }
+
+    .sec-4 .servic-icon {
+        padding: 40px 35px 5px;
+    }
+
+    .sec-4 .servic-icon i {
+        font-size: 52px;
+        padding-bottom: 17px;
+    }
+
+    .sec-4 .servic-icon h3 {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+
+    /*-------sec-5-------- */
+
+    .sec-5 .comp-case p {
+        margin-right: 60px;
+    }
+
+    .sec-5 .comp-case {
+        margin-left: 30px;
+    }
+
+    .sec-5 {
+        padding: 50px 0;
+    }
+
+    .sec-5 .comp-img .comp-img-1 {
+        width: 100%;
+    }
+
+    .sec-5 .comp-img .comp-img-2 {
+        width: 0%;
+    }
+
+    /*--------- sec-6---------- */
+
+    .sec-6 .cliff-fraz h4 {
+        margin-bottom: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 17px
+    }
+
+    .sec-6 {
+        padding-top: 80px;
+    }
+
+    .sec-6 .cliff-p p {
+        font-size: 16px;
+    }
+
+    /*-------sec-7-------- */
+    .sec-7 {
+        padding: 100px 0 30px;
+    }
+
+    .sec-7 .col-4 {
+        width: 100%;
+    }
+
+    .sec-7 h2 {
+        font-size: 50px;
+        margin-bottom: 50px;
+    }
+
+    /*------ sec-8 ------ */
+    .sec-8 {
+        padding: 40px 0;
+    }
+
+    .sec-8 .col-4 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .sec-8 .col-8 {
+        width: 100%;
+    }
+
+    .sec-8 .col-4 h3 {
+        margin: 15px;
+    }
+
+    .sec-8 .col-4 p {
+        margin: 0 15px;
+    }
+
+    .sec-8 .call-form {
+        margin-left: 0px;
+    }
+
+    .sec-8 .f-naph input {
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .sec-8 .f-ser select {
+        width: 100%;
+    }
+
+    .sec-8 .button {
+        width: 100%;
+    }
+
+    /*--------- page--------- */
+    .pages {
+        padding: 45px 0;
+    }
+
+    .b-sec-1 .b-box1 .b-input input {
+        width: 82%;
+    }
+
+    .sub-header {
+        padding: 9px 0;
+    }
+}
+
+@media(max-width:380px) {
+
+    .footer .col-4 {
+        width: 100%;
+    }
+
+    footer .col-4 p {
+        padding-right: 0px;
+    }
+
+    footer {
+        padding: 50px 0 0;
+    }
+
+    .footer-1 {
+        padding: 0px 0 40px 0px;
+    }
+
+    footer .col-2 {
+        width: 100%;
+        padding: 0 0 25px 0;
+    }
+
+    footer .col-3 {
+        width: 100%;
+        padding: 0 0 25px 0;
+    }
+
+    footer .col-3:last-child {
+        padding: 0 0 25px 0;
+    }
+
+    .b-sec-1 .b-box1 .b-input input {
+        width: 80%;
+    }
+}
+
+@media(max-width:320px) {
+    .logo img {
+        max-width: 88%;
+    }
+
+    .banner .banner-data h1 {
+        font-size: 30px;
+    }
+
+    .header-contact a {
+        margin-right: 0px;
+        font-size: 13px;
+    }
+
+    .header-social ul li a i {
+        padding: 0 8px;
+        font-size: 14px;
+    }
+
+    .sub-header {
+        padding: 5px 0;
+    }
+
+    header {
+        padding: 14px 0;
+    }
+
+    /* -------sec-2------ */
+
+    .sec-2 .business-1 img {
+        margin-bottom: 5px;
+    }
+
+    .sec-2 .business-1 h2 {
+        margin-bottom: 5px;
+        font-size: 22px;
+    }
+
+    .sec-2 .business-1 p {
+        font-size: 15px;
+        line-height: 1.7;
+    }
+
+    .sec-2 .business-3 p {
+        margin-bottom: 12px;
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .sec-2 .business-3 {
+        padding: 20px 20px 30px;
+    }
+
+    .sec-2 .business-3 h2 {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+
+    /* -------sec-3------ */
+
+    .sec-3 .client-data {
+        bottom: -150%;
+        right: 15px;
+        padding: 25px 0px 0px 15px;
+        background-color: transparent;
+    }
+
+    .sec-3 .client {
+        padding: 45px 0 0;
+    }
+
+    .sec-3 .client-data h2 {
+        font-size: 29px;
+        margin-bottom: 15px;
+    }
+
+    .sec-3 .client-data p {
+        margin-bottom: 20px;
+        line-height: 27px;
+        font-size: 15px;
+    }
+
+    /* -------sec-4------ */
+
+    .sec-4 {
+        padding: 415px 0 35px;
+    }
+
+    .sec-4 a {
+        margin-top: 30px;
+    }
+
+    .sec-4 h2 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .sec-4 .servic-icon {
+        padding: 30px 10px 15px;
+    }
+
+    .sec-4 .servic-icon i {
+        font-size: 50px;
+        padding-bottom: 15px;
+    }
+
+    .sec-4 .servic-icon h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .sec-4 .servic-icon p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    /* -------sec-5------ */
+    .sec-5 {
+        padding: 30px 0 50px;
+    }
+
+    .sec-5 .comp-case {
+        margin-left: 15px;
+        margin-bottom: 20px;
+    }
+
+    .sec-5 .comp-case h2 {
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+
+    .sec-5 .comp-case p {
+        margin-right: 15px;
+        margin-bottom: 20px;
+    }
+
+    .sec-6 img {
+        width: 36%;
+    }
+
+    /* -------sec-6------ */
+    .sec-6 {
+        padding-top: 50px;
+    }
+
+    .sec-6 .cliff-fraz h4 {
+        margin-left: 18px;
+        margin-right: 20px;
+        font-size: 16px;
+    }
+
+    .sec-6 .cliff-p p {
+        font-size: 15px;
+    }
+
+    .sec-6 img {
+        margin: 0 auto 30px;
+    }
+
+    .sec-6 .cliff-fraz i {
+        font-size: 16px;
+        margin-bottom: 14px;
+    }
+
+    /* -------sec-8------ */
+
+    .sec-8 .col-4 p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .sec-8 .col-4 h3 {
+        font-size: 36px;
+    }
+
+    .sec-8 {
+        padding: 25px 0 40px;
+    }
+
+    /* -------sec-7------ */
+
+    .sec-7 {
+        padding: 55px 0 15px;
+    }
+
+    .sec-7 h2 {
+        font-size: 40px;
+        margin-bottom: 24px;
+    }
+
+    .sec-7 .re-news {
+        padding: 0 15px 15px;
+    }
+
+    .sec-7 .re-data {
+        padding: 20px 10px;
+    }
+
+    .sec-7 .re-data p {
+        font-size: 13px;
+        margin-bottom: 0px;
+    }
+
+    .sec-7 .re-data h3 {
+        font-size: 19px;
+        margin-bottom: 9px;
+    }
+
+    .sec-7 .re-data h6 {
+        margin-bottom: 7px;
+    }
+}
